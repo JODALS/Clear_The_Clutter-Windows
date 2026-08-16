@@ -1,0 +1,18 @@
+{
+  "name": "clutter-clear",
+  "version": "1.0.0",
+  "description": "A Node.js CLI tool that organizes a folder by sorting files into subfolders based on their extension.",
+  "main": "clutter.js",
+  "type": "module",
+  "scripts": {
+    "start": "node clutter.js"
+  },
+  "keywords": [
+    "cli",
+    "file-organizer",
+    "automation",
+    "nodejs"
+  ],
+  "author": "Priyanshu",
+  "license": "MIT"
+}
